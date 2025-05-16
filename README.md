@@ -7,3 +7,4 @@ This course will walk you through writing your first action and using it with a 
 
 ## Status of Repo
 ![Docker](https://github.com/manukoli1986/hello-github-actions/workflows/Docker/badge.svg)
+
